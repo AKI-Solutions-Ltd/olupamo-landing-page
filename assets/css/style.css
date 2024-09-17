@@ -375,7 +375,7 @@ footer {
 /* Media queries*/
 @media screen and (max-width: 800px) {
   body {
-    font-size: 75%;
+    font-size: 95%;
   }
   .pricing-container {
     flex-wrap: wrap;
