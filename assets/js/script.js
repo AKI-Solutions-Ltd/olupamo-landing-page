@@ -1,4 +1,3 @@
-
 //intersection observer
 const sections = document.querySelectorAll(".section");
 const observer = new IntersectionObserver((entries) => {
